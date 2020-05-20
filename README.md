@@ -1,5 +1,17 @@
 # All-Access
-This repository contains all the links to my project.
+This section of readme contains all my links.
+- Github : https://github.com/vishwajeetraj11
+- Instagram : https://www.instagram.com/vishwajeetraj11/
+- Facebook : https://www.facebook.com/vishwajeet.raj1
+- Twitter : https://twitter.com/Vishwajeet323
+- LinkedIn : https://www.linkedin.com/in/vishwajeetraj11/
+- Behance : https://www.behance.net/vishwajeetraj
+- Dribbble : https://dribbble.com/vishwajeetraj11
+- Paypal : https://www.paypal.me/vishwajeetraj11
+
+
+
+This section of readme contains all the links to my project.
 
 1. Budget Web App (JavaScript) : https://vishwajeetraj11.github.io/Budget-Web-Application/
 2. Natours (Front-End) : https://vishwajeetraj11.github.io/Natours-Front-End/
