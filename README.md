@@ -20,8 +20,8 @@ This section of readme contains all the links to my project.
 5.  Omnifood (Front-End) : https://vishwajeetraj11.github.io/Omnifood/
 6.  Natours (Node.js, MongoDB, Express, Mongoose) (Back-End) : https://natours-web-application.herokuapp.com/
 7.  Forkify (JavaScript) (API Call) : https://elated-bartik-395a11.netlify.com/
-8.  Pig Game : https://vishwajeetraj11.github.io/PigGame/ 
-9.  Expensify : https://expensify-web-appli.herokuapp.com/
+8.  Pig Game(JavaScript) : https://vishwajeetraj11.github.io/PigGame/ 
+9.  Expensify(React, Firebase, Redux) : https://expensify-web-appli.herokuapp.com/
 10. Indecision App (React-to-do): https://sleepy-rosalind-16c816.netlify.app/
 11. DesignCode App (React Native): https://drive.google.com/file/d/1xIqeEiHjufI3P8tNFsM-rjyGYfvO4dgY/view
 12. Design Code Web App (React): https://design-code-web-app.netlify.app
