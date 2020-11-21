@@ -26,4 +26,4 @@ This section of readme contains all the links to my project.
 11. DesignCode App (React Native): https://drive.google.com/file/d/1xIqeEiHjufI3P8tNFsM-rjyGYfvO4dgY/view
 12. Design Code Web App (React): https://design-code-web-app.netlify.app
 13. Winter Of Code (React, GSAP): www.winterofcode.com 
-14. Quiz Application (React, Hooks): loving-villani-b83cff.netlify.app/quiz
+14. Quiz Application (React, Hooks): https://loving-villani-b83cff.netlify.app/quiz
