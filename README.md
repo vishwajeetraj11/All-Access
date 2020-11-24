@@ -7,7 +7,8 @@ This section of readme contains all my links.
 - LinkedIn : https://www.linkedin.com/in/vishwajeetraj11/
 - Behance : https://www.behance.net/vishwajeetraj
 - Dribbble : https://dribbble.com/vishwajeetraj11
-- Paypal : https://www.paypal.me/vishwajeetraj11
+- Paypal : https://www.paypal.me/vishwajeetraj11  
+- Medium : https://vishwajeetraj11.medium.com/  
    
 
 
