@@ -31,3 +31,4 @@ This section of readme contains all the links to my project.
 15. Vulcan (FrontEnd) (React) - https://gracious-johnson-4f1620.netlify.app/  
 16. Ecommerce Shop (MERN Stack) - https://proshop-web-application.herokuapp.com/  
 17. React Native Application: - https://github.com/vishwajeetraj11/marvie  
+18. OS Resume (Next.js): - https://osresume.vercel.app (Resume Builder)
