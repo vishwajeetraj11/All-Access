@@ -32,3 +32,4 @@ This section of readme contains all the links to my project.
 16. Ecommerce Shop (MERN Stack) - https://proshop-web-application.herokuapp.com/  
 17. React Native Application: - https://github.com/vishwajeetraj11/marvie  
 18. OS Resume (Next.js): - https://osresume.vercel.app (Resume Builder)
+19. Music Player (Shazam API): - https://shazam.vercel.app
