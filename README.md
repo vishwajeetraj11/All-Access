@@ -40,3 +40,5 @@ This section of readme contains all the links to my project.
    https://vishwajeetraj11.hashnode.dev/introducing-os-resume-oversimplified-resume-builder  
 2. Introducing Product Board: A Project Management Platform:   
    https://vishwajeetraj11.hashnode.dev/introducing-product-board-a-project-management-platform
+3. Get your game up with JavaScript: Understanding Variables:  
+   https://vishwajeetraj11.hashnode.dev/get-your-game-up-with-javascript-understanding-variables
