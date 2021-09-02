@@ -38,5 +38,5 @@ This section of readme contains all the links to my project.
 # Blogs
 1. Introducing OS Resume (Oversimplified Resume Builder):  
    https://vishwajeetraj11.hashnode.dev/introducing-os-resume-oversimplified-resume-builder  
-2. Introducing Product Board: A Project Management Platform: 
+2. Introducing Product Board: A Project Management Platform:   
    https://vishwajeetraj11.hashnode.dev/introducing-product-board-a-project-management-platform
