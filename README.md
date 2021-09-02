@@ -34,3 +34,9 @@ This section of readme contains all the links to my project.
 18. OS Resume (Next.js): - https://osresume.vercel.app (Resume Builder)
 19. Music Player (Shazam API): - https://shazam.vercel.app
 20. Product Board (Project Management Application): https://productboard-application.vercel.app
+
+# Blogs
+1. Introducing OS Resume (Oversimplified Resume Builder):  
+   https://vishwajeetraj11.hashnode.dev/introducing-os-resume-oversimplified-resume-builder  
+2. Introducing Product Board: A Project Management Platform: 
+   https://vishwajeetraj11.hashnode.dev/introducing-product-board-a-project-management-platform
