@@ -1,5 +1,6 @@
 # All-Access
-This section of readme contains all my links.    
+
+# Socials     
 - Github : https://github.com/vishwajeetraj11
 - Instagram : https://www.instagram.com/vishwajeetraj11/
 - Facebook : https://www.facebook.com/vishwajeet.raj1
@@ -10,10 +11,7 @@ This section of readme contains all my links.
 - Paypal : https://www.paypal.me/vishwajeetraj11  
 - Medium : https://vishwajeetraj11.medium.com/  
    
-
-
-This section of readme contains all the links to my project.
-
+# Projects
 1.  Budget Web App (JavaScript) : https://vishwajeetraj11.github.io/Budget-Web-Application/
 2.  Natours (Front-End) : https://vishwajeetraj11.github.io/Natours-Front-End/
 3.  Nexters (Front-End) : https://trusting-jennings-dec878.netlify.app/
