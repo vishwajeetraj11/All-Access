@@ -41,3 +41,10 @@
    https://vishwajeetraj11.hashnode.dev/introducing-product-board-a-project-management-platform
 3. Get your game up with JavaScript: Understanding Variables:  
    https://vishwajeetraj11.hashnode.dev/get-your-game-up-with-javascript-understanding-variables
+
+# Hackathons  
+1. Auth0 + Hashnode Hackathon:  
+   https://townhall.hashnode.com/auth0-hashnode-hackathon-winners. 
+2. ClerkDev + Hashnode Hackathon:   
+   https://townhall.hashnode.com/clerkdev-hashnode-hackathon-winners. 
+
