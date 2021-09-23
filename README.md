@@ -31,7 +31,8 @@
 17. React Native Application: - https://github.com/vishwajeetraj11/marvie  
 18. OS Resume (Next.js): - https://osresume.vercel.app (Resume Builder)
 19. Music Player (Shazam API): - https://shazam.vercel.app
-20. Product Board (Project Management Application): https://productboard-application.vercel.app
+20. Product Board (Project Management Application): https://productboard-application.vercel.app. 
+21. Twitter Clone (Pug, Node, Mongo, jQuery, Express): https://github.com/vishwajeetraj11/twitter-clone. 
 
 # Blogs
 1. Introducing OS Resume (Oversimplified Resume Builder):  
