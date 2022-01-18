@@ -24,7 +24,7 @@
 10. Indecision App (React-to-do): https://sleepy-rosalind-16c816.netlify.app/
 11. DesignCode App (React Native): https://drive.google.com/file/d/1_E7vEB4x77Af9gsDMQy6k_o_VETwtOKe/view?usp=sharing
 12. Design Code Web App (React): https://design-code-web-app.netlify.app
-13. Winter Of Code (React, GSAP): www.winterofcode.com 
+13. Winter Of Code (React, GSAP): www.winterofcode.com/2020
 14. Quiz Application (React, Hooks): https://loving-villani-b83cff.netlify.app/quiz
 15. Vulcan (FrontEnd) (React) - https://gracious-johnson-4f1620.netlify.app/  
 16. Ecommerce Shop (MERN Stack) - https://proshop-web-application.herokuapp.com/  
