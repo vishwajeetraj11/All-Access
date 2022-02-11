@@ -34,7 +34,8 @@
 20. Product Board (Project Management Application): https://productboard-application.vercel.app. 
 21. Twitter Clone (Pug, Node, Mongo, jQuery, Express): https://github.com/vishwajeetraj11/twitter-clone.   
 22. Spotify Clone (Expo): https://github.com/vishwajeetraj11/spotify. 
-23. Quizco (MERN): https://quizco-app.netlify.app/
+23. Quizco (MERN): https://quizco-app.netlify.app/. 
+24. Firechats: https://firechats.netlify.app/. 
 
 # Blogs
 1. Introducing OS Resume (Oversimplified Resume Builder):  
