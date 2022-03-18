@@ -56,5 +56,5 @@
    https://townhall.hashnode.com/netlify-x-hashnode-hackathon-winners
 
 # Resume:  
-https://drive.google.com/file/d/1X7VoshcCYlz51wry6nE3SellajKtYlx_/view?usp=sharing
+https://drive.google.com/file/d/18m41V9sStuDtjvEUe72XJ5BepSO8SLQ9/view?usp=sharing
 
