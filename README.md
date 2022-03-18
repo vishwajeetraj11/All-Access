@@ -52,7 +52,7 @@
    https://townhall.hashnode.com/auth0-hashnode-hackathon-winners. 
 2. ClerkDev + Hashnode Hackathon:   
    https://townhall.hashnode.com/clerkdev-hashnode-hackathon-winners.  
-3. Netlify x Hashnode Hackathon. 
+3. Netlify x Hashnode Hackathon.   
    https://townhall.hashnode.com/netlify-x-hashnode-hackathon-winners
 
 # Resume:  
