@@ -54,5 +54,5 @@
    https://townhall.hashnode.com/clerkdev-hashnode-hackathon-winners. 
 
 # Resume:  
-https://drive.google.com/file/d/1K_eFIIwU4KIYuYHT3uBpj3ZDLjslRsAV/view?usp=sharing
+https://drive.google.com/file/d/1X7VoshcCYlz51wry6nE3SellajKtYlx_/view?usp=sharing
 
