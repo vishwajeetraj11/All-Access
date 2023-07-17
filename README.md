@@ -35,7 +35,8 @@
 21. Twitter Clone (Pug, Node, Mongo, jQuery, Express): https://github.com/vishwajeetraj11/twitter-clone.   
 22. Spotify Clone (Expo): https://github.com/vishwajeetraj11/spotify. 
 23. Quizo - Quiz Builder and Assessment Tool (MERN): https://quizco-app.netlify.app/. 
-24. Firechats: https://firechats.netlify.app/. 
+24. Firechats: https://firechats.netlify.app/.
+25. Expensasaurus: https://expensasaurus.vercel.app/dashboard
 
 # Blogs
 1. Introducing OS Resume (Oversimplified Resume Builder):  
@@ -46,6 +47,8 @@
    https://vishwajeetraj11.hashnode.dev/get-your-game-up-with-javascript-understanding-variables
 4. Introducing Quizco: Quiz Builder + Assessment Tool:  
    https://vishwajeetraj11.hashnode.dev/introducing-quizco-quiz-builder-assessment-tool
+5. Introducing Expensasaurus: Start your journey toward financial wellness
+   https://vishwajeetraj11.hashnode.dev/introducing-expensasaurus-start-your-journey-toward-financial-wellness
 
 # Hackathons  
 1. Auth0 + Hashnode Hackathon:  
