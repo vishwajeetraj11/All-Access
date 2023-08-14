@@ -57,7 +57,9 @@
    https://townhall.hashnode.com/clerkdev-hashnode-hackathon-winners.  
 3. Netlify x Hashnode Hackathon.   
    https://townhall.hashnode.com/netlify-x-hashnode-hackathon-winners
+4. Appwrite x Hashnode Hackathon.
+   https://vishwajeetraj11.hashnode.dev/introducing-expensasaurus-start-your-journey-toward-financial-wellness.
 
 # Resume:  
-https://drive.google.com/file/d/18m41V9sStuDtjvEUe72XJ5BepSO8SLQ9/view?usp=sharing
+https://drive.google.com/file/d/1H6dJPXMN7fFNpc3TfYy0l3hcKHxmfp0X/view?usp=sharing
 
