@@ -29,7 +29,7 @@
 15. Vulcan (FrontEnd) (React) - https://gracious-johnson-4f1620.netlify.app/  
 16. Ecommerce Shop (MERN Stack) - https://proshop-web-application.herokuapp.com/  
 17. React Native Application: - https://github.com/vishwajeetraj11/marvie  
-18. OS Resume (Next.js): - https://osresume.vercel.app (Resume Builder)
+18. OS Resume (Next.js): - https://osresume.co.in (Resume Builder)
 19. Music Player (Shazam API): - https://shazam.vercel.app
 20. Product Board (Project Management Application): https://projectboard-application.vercel.app. 
 21. Twitter Clone (Pug, Node, Mongo, jQuery, Express): https://github.com/vishwajeetraj11/twitter-clone.   
