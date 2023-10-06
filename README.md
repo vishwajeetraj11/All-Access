@@ -15,7 +15,7 @@
 1.  Expensasaurus: https://expensasaurus.vercel.app/
 2.  OS Resume (Next.js): - https://osresume.co.in (Resume Builder)
 3.  Quizo - Quiz Builder and Assessment Tool (MERN): https://quizco-app.netlify.app/.
-4.  Product Board (Project Management Application): https://projectboard-application.vercel.app. 
+4.  Project Board (Project Management Application): https://projectboard.vercel.app/
 5.  Budget Web App (JavaScript) : https://vishwajeetraj11.github.io/Budget-Web-Application/
 6.  Natours (Front-End) : https://vishwajeetraj11.github.io/Natours-Front-End/
 7.  Nexters (Front-End) : https://trusting-jennings-dec878.netlify.app/
