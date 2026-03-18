@@ -61,5 +61,5 @@
    https://vishwajeetraj11.hashnode.dev/introducing-expensasaurus-start-your-journey-toward-financial-wellness.
 
 # Resume:  
-https://drive.google.com/file/d/1bLCZEzUZv4ns0ilTfM4_vaRtvQHfUIXn/view
+[https://drive.google.com/file/d/1bLCZEzUZv4ns0ilTfM4_vaRtvQHfUIXn/view](https://drive.google.com/file/d/1bLCZEzUZv4ns0ilTfM4_vaRtvQHfUIXn/view?usp=sharing)
 
